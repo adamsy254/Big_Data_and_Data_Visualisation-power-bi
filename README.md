@@ -43,7 +43,7 @@ These projects prove I can take messy data, sprinkle some Power BI magic, and de
 ## ❤️ Support My Work & Let's Collaborate!
 If these dashboards made you smile 😄, inspired your next project, or you need **custom Power BI solutions** – I'm here to help!
 
-- **Buy Me a Coffee (or Data!) ☕**: Donate via PayPal → [adamsmuema19@gmail.com](https://www.paypal.com/paypalme/adamsmuema19)
+- **Buy Me a Coffee (or Data!) ☕**: Donate via PayPal → [adamsmuema19@gmail.com](https://www.paypal.com/donate/?hosted_button_id=UW2NDM92AU67U)
 - **Need Insights, Dashboards, or Training? 📩**: Hit me up on WhatsApp → [+254702896107](https://wa.me/254702896107)
 
 Your support fuels more colorful dashboards and free knowledge sharing! 🌍✨ Thank you! 🫶
